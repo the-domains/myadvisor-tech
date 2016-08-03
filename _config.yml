@@ -1,0 +1,14 @@
+name: myadvisor.tech
+layout_spectrum: 0.45940327346515186
+typography_spectrum: 0.7532746362667161
+color:
+  brandColors:
+    - '#1C1D21'
+    - '#31353D'
+    - '#445878'
+    - '#92CDCF'
+    - '#EEEFF7'
+  brandStrength: 0.20917592601935675
+  lightness: 0.585761555582725
+  saturation: 0.9003083685399711
+  rhythmicContrast: 0.5950844083791174
