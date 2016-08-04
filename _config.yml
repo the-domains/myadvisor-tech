@@ -12,3 +12,7 @@ color:
   lightness: 0.585761555582725
   saturation: 0.9003083685399711
   rhythmicContrast: 0.5950844083791174
+navigation:
+  - name: Home
+    id: 805a120e-f140-4288-88f9-e4faf87cc531
+    type: content
